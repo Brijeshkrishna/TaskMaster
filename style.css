@@ -1,0 +1,15 @@
+body,
+.container {
+  background-color: #1b1b1b;
+  color: #ffffff;
+}
+
+.form-control ,input {
+  background-color:#212529;
+  color: #ffffff;
+}
+
+th {
+  text-align: left;
+  
+}
