@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <title>Login</title>
 <nav class="navbar bg-body-tertiary bg-dark fixed-top">
   <div class="container-fluid">
-    <span class="navbar-brand" style="color:black;">Task Master</span>
+    <span class="navbar-brand" style="color:white;">Task Master</span>
 
   </div>
 </nav>
