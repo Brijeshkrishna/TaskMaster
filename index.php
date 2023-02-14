@@ -50,7 +50,7 @@
       <input type="date" class="form-control mr-5 shadow-sm rounded " name="due" required />
 
 
-      <button class="btn btn-primary mr-5 shadow rounded" type="submit"> Add Task <svg
+      <button class="btn btn-primary mr-5 shadow rounded" type="submit" name ="submit" > Add Task <svg
           xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-database-add"
           viewBox="0 0 16 16">
           <path
